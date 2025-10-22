@@ -24,7 +24,7 @@ def me():
         "status": "success",
         "user": {
             "name": "Emmanuel Lemuel",
-            "email": "emmanuel@example.com",
+            "email": "emmanuel@gmail.com",
             "stack": "backend"
         },
         "fact": cat_fact,
